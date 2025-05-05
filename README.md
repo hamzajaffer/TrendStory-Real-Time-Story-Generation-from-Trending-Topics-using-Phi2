@@ -161,4 +161,5 @@ python test_api.py
 
 ## 🙌 Author
 
-Hamza — 2025 NLP Project @ University
+Hamza Jaffer FAST NUCES ISB i220583@nu.edu.pk
+Ali Hashim FAST NUCES ISB   i220554@nu.edu.pk
